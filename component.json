@@ -1,9 +1,0 @@
-{
-    "name": "jquery-autocomplete",
-    "main": "jquery.autocomplete.js",
-    "repos": "https://github.com/devbridge/jQuery-Autocomplete.git",
-    "version": "v1.2.22",
-    "dependencies": {
-        "jquery": ">=1.7"
-    }
-}
